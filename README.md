@@ -8,7 +8,7 @@ How to use:
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass (This command allows PowerShell to run scripts just for this session. Use it only with trusted scripts.)
 3. Run .\safeclicker.ps1
 
-YOU have successfully runned safeclicker.ps1
+YOU have successfully ran safeclicker.ps1
 
 To use safeclicker
 click f2 to start and stop (all your clicks within the pc is now registered as "2" clicks)
