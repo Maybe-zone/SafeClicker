@@ -5,8 +5,11 @@ How to use:
 1. download the safeclicker.ps1 file (contains the powershell script)
 2. open powershell (recommended not admin) and run the following commands:
    cd "$env:USERPROFILE\(where you saved it)"
-   Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass (This command allows PowerShell to run scripts just for this session. Use it only with trusted scripts.)
-3. Run .\safeclicker.ps1
+   
+   a. Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+   b. (This command allows PowerShell to run scripts just for this session. Use it only with trusted scripts.)
+   
+   c. Run .\safeclicker.ps1
 
 YOU have successfully ran safeclicker.ps1
 
