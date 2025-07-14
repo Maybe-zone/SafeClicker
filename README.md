@@ -4,8 +4,8 @@ ________________________________________________________________________________
 How to use:
 1. download the safeclicker.ps1 file (contains the powershell script)
 2. open powershell (recommended not admin) and run the following commands:
-   
-   a. cd "$env:USERPROFILE\(where you saved it)"
+______________________________________________________________________________
+   a. cd "$env:USERPROFILE\(where you saved it)" (if in downloads paste : cd "$env:USERPROFILE\(downloads)" )
    _______________________________________________
    
    b. Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
