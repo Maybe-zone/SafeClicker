@@ -8,7 +8,7 @@ How to use:
    
 ______________________________________________________________________________
 
-   a. cd "$env:USERPROFILE\(where you saved it)" (***if in downloads paste** : cd "$env:USERPROFILE\Downloads"
+   a. cd "$env:USERPROFILE\(where you saved it)" (***if in downloads paste** : cd "$env:USERPROFILE\Downloads";  thats the code )
    
    _______________________________________________
    
