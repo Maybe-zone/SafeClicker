@@ -4,18 +4,21 @@ ________________________________________________________________________________
 How to use:
 1. download the safeclicker.ps1 file (contains the powershell script)
 2. open powershell (recommended not admin) and run the following commands:
-   cd "$env:USERPROFILE\(where you saved it)"
    
-   a. Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-   b. (This command allows PowerShell to run scripts just for this session. Use it only with trusted scripts.)
+   a. cd "$env:USERPROFILE\(where you saved it)"
+   _______________________________________________
+   
+   b. Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+    (This command allows PowerShell to run scripts just for this session. Use it only with trusted scripts.)
+   ______________________________________________________________________________________________________________
    
    c. Run .\safeclicker.ps1
-
+__________________________________________________________________________________
 YOU have successfully ran safeclicker.ps1
-
+______________________________________________
 To use safeclicker
 click f2 to start and stop (all your clicks within the pc is now registered as "2" clicks)
-
+_______________________________________________________________________________________________
 Have fun with safeclicker and dont miss use it, as we do not support you miss using it.
 __________________________________________________________________________________________________________________________________________*
  Note: 
