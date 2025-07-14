@@ -9,7 +9,7 @@ ______________________________________________________________________________
    _______________________________________________
    
    b. Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
-    (This command allows PowerShell to run scripts just for this session. Use it only with trusted scripts.)
+    (This command allows PowerShell to run scripts **only** for this session. Use it only with trusted scripts.)
    ______________________________________________________________________________________________________________
    
    c. Run .\safeclicker.ps1
